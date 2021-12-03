@@ -27,6 +27,11 @@
     padding: 1rem 2rem;
     font-size: large;
     font-family: 'Kalam', cursive;
+    cursor: pointer;
+}
+
+#btn-translate:active {
+    transform: scale(0.9, 0.9);
 }
 
 .outputHeading {
